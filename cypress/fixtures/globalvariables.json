@@ -1,0 +1,23 @@
+{
+    "FiveMapsUrl": "https://test.5share.com/5maps2/index.html#/login",
+    "FiveMapsHomeUrl":"https://test.5share.com/5maps2/index.html#/modules/88970d6dd4194c82b362dd3449c33604/maps",
+    "email": "priyanka.dhiman@frontlineed.com",
+    "password": "Forecast555#",
+    "module": [
+        "WA - West Valley (Yakima) Demo",
+        "TX - AMARILLO ISD",
+        "IL - Urbana SD 116",
+        "TX - ALICE ISD",
+        "AH - Demo - Anoka-Hennepin"  
+    ],
+    "statsData": [
+        "Students (Current)",
+        "Parcel Centroids"
+    ],
+    "statsAdditionalData": [
+        "Student Profile"
+    ],
+    "statsStudentCountWithFilter": "25,772",
+    "statsStudentCountWithoutFilter": "49,944",
+    "statsMiddleSchoolCount": "7777"
+}
